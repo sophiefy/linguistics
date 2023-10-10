@@ -4,7 +4,7 @@
 
 ## 1 概述
 
-在第5章中，我们以词（word）为单位探究了构词（word formation）的过程。接下来我们将进一步研究词的内部构造。
+在第5章中，我们以词 (word）为单位探究了构词 (word formation）的过程。接下来我们将进一步研究词的内部构造。
 
 以下是本章中出现的部分语言学术语。
 
@@ -24,9 +24,9 @@
 
 ## 2 形态学
 
-在许多语言中，有些独立的形（single forms）实际上是由若干像词一样的（word-like）元素构成的。例如日语的「負けず嫌い」是一个单词，对应的英语可以是hating to lose。由此能够看出这个单词实际上是由几个比单词更小且具有含义的单位构成的。
+在许多语言中，有些独立的形 (single forms）实际上是由若干像词一样的 (word-like）元素构成的。例如日语的「負けず嫌い」是一个单词，对应的英语可以是hating to lose。由此能够看出这个单词实际上是由几个比单词更小且具有含义的单位构成的。
 
-因此，我们在研究不同语言的语言形（linguistic forms）时，应当关注上面这些比词更小的单位，或基本形（basic forms）。对它们的研究就称为**形态学（morphology）**。
+因此，我们在研究不同语言的语言形 (linguistic forms）时，应当关注上面这些比词更小的单位，或基本形 (basic forms）。对它们的研究就称为**形态学 (morphology)** 。
 
 > **NOTE**
 >
@@ -36,14 +36,14 @@
 
 ## 3 形位
 
-上面提到的基本形式在语言学中称为**形位（morphemes）**。形位是具有含义或者语法功能的最小单位。其中，语法功能单位可以是时态、复数等等。例如，talks、talker、talked和talking这几个单词中包括了具有含义的形位talk和其他具有语法功能的形位-s、-er、-ed和-ing。基于形位，我们可以将单词进一步拆分。以renewed和tourists为例。
+上面提到的基本形式在语言学中称为**形位 (morphemes)** 。形位是具有含义或者语法功能的最小单位。其中，语法功能单位可以是时态、复数等等。例如，talks、talker、talked和talking这几个单词中包括了具有含义的形位talk和其他具有语法功能的形位-s、-er、-ed和-ing。基于形位，我们可以将单词进一步拆分。以renewed和tourists为例。
 
 | 具有含义的最小单位                                   | 具有语法功能的最小单位 |
 | ---------------------------------------------------- | ---------------------- |
 | **re** (again) **new** (recently made)               | **-ed** (past tense)   |
 | **tour** (travel for pleasure) **-ist** (person who) | **-s** (plural)        |
 
-回到上面的日语单词「負けず嫌い」，使用[MeCab](https://taku910.github.io/mecab/)对其做形态分析（morphological analysis）得到的结果如下。可以看到它由3个形位构成，每个形位有各自关于词性、变形、发音等信息。
+回到上面的日语单词「負けず嫌い」，使用[MeCab](https://taku910.github.io/mecab/)对其做形态分析 (morphological analysis）得到的结果如下。可以看到它由3个形位构成，每个形位有各自关于词性、变形、发音等信息。
 
 ```bash
 負け	動詞,下一段-カ行,未然形-一般,負ける,マケ,マケ,0
@@ -53,26 +53,26 @@
 
 ### 3.1 自由形位与黏着形位
 
-可以单独成词的形位称为**自由形位（free morphemes）**。在英语中，自由形位一般是一些基本的名词、动词、形容词等。通常不能单独成词，需要依附于其它形（forms）的形位称为**黏着形位（bound morphemes）**，如re-、-ist、-ed、-s等词缀。在英语中，所有的词缀都是黏着形位。当自由形位与黏着形位共同构成单词时，这些自由形位也称为**词干（stems）**。
+可以单独成词的形位称为**自由形位 (free morphemes)** 。在英语中，自由形位一般是一些基本的名词、动词、形容词等。通常不能单独成词，需要依附于其它形 (forms）的形位称为**黏着形位 (bound morphemes)** ，如re-、-ist、-ed、-s等词缀。在英语中，所有的词缀都是黏着形位。当自由形位与黏着形位共同构成单词时，这些自由形位也称为**词干 (stems)** 。
 
 ![free-bound](assets/free-bound.png)
 
-需要注意，在英语中还存在**黏着词干（bound stems）**。它们虽然是词干，但不能单独成词，也就不是自由形位。许多源自拉丁语的单词中就含有黏着词干。如在receive中，我们可以发现re-是一个黏着形位，但-ceive不是单词，自然就不属于自由形位。
+需要注意，在英语中还存在**黏着词干 (bound stems)** 。它们虽然是词干，但不能单独成词，也就不是自由形位。许多源自拉丁语的单词中就含有黏着词干。如在receive中，我们可以发现re-是一个黏着形位，但-ceive不是单词，自然就不属于自由形位。
 
 > **NOTE**
 >
-> 关于如何辨识词根（root）、词干（stem）和词基（base）的部分见第6节。
+> 关于如何辨识词根 (root）、词干 (stem）和词基 (base）的部分见第6节。
 >
 
 ### 3.2 词汇形位与功能形位
 
-下面对自由形位进一步分类。携带内容的自由形位称为**词汇形位（lexical morphemes）**，也称为**内容形位（content morphemes）**。它们通常是名词、动词、形容词等**实词（content word）**。由于我们会经常向词典中加入词汇形位，它们被视为**开放类（open class）**词。
+下面对自由形位进一步分类。携带内容的自由形位称为**词汇形位 (lexical morphemes)** ，也称为**内容形位 (content morphemes)** 。它们通常是名词、动词、形容词等**实词 (content word)** 。由于我们会经常向词典中加入词汇形位，它们被视为**开放类 (open class)**词。
 
-与之相对的是**功能形位（functional morphemes）**。它们通常是冠词、连词、介词、代词等**虚词（function word）**。由于我们几乎不会向词典中添加功能形位，它们被视**为封闭类（closed class）**词。
+与之相对的是**功能形位 (functional morphemes)** 。它们通常是冠词、连词、介词、代词等**虚词 (function word)** 。由于我们几乎不会向词典中添加功能形位，它们被视**为封闭类 (closed class)** 词。
 
 ### 3.3 派生形位与曲折形位
 
-下面对黏着形位进一步分类。能够基于词干创造新词或改变其语法类型（grammatcial category）的黏着形位称为**派生形位（derivational morphemes）**，如第5章提到的类似re-、-ful、-ness等的词缀。用于指示语法功能的黏着形位称为**曲折形位（inflectional morphemes）**，如复数、时态等。英语中仅有8种曲折形位，且全部都是后缀。
+下面对黏着形位进一步分类。能够基于词干创造新词或改变其语法类型 (grammatcial category）的黏着形位称为**派生形位 (derivational morphemes)** ，如第5章提到的类似re-、-ful、-ness等的词缀。用于指示语法功能的黏着形位称为**曲折形位 (inflectional morphemes)** ，如复数、时态等。英语中仅有8种曲折形位，且全部都是后缀。
 
 | 英文                                        | 中文               | 英文                                        | 中文             |
 | ------------------------------------------- | ------------------ | ------------------------------------------- | ---------------- |
@@ -85,10 +85,10 @@
 
 |          | 名词               | 动词           | 形容词         |
 | -------- | ------------------ | -------------- | -------------- |
-| 派生形位 | critic**-ism**     | critic**-ize** | criti**-cal**  |
-|          | encourage**-ment** | class**-ify**  | wonder**-ful** |
-| 曲折形位 | Jim**-'s**         | laugh**-ing**  | quiet**-er**   |
-|          | sister**-'s**      | enjoy**-ed**   | loud**-est**   |
+| 派生形位 | critic-ism   | critic-ize | critic-al  |
+|          | encourage-ment | class-ify  | wonder-ful |
+| 曲折形位 | Jim-'s        | laugh-ing | quiet-er   |
+|          | sister-'s     | enjoy-ed   | loud-est   |
 
 ### 3.4 形态描述
 
@@ -104,7 +104,7 @@
 
 ## 5 形与同位异形
 
-之前对形位的讨论中是从书写和含义的角度出发，而淡化了其另一性质：它是一个音义结合体。例如，cats包括词汇形位/kæt/和曲折形位/-s/两部分。dogs包括词汇形位/dɔg/和曲折形位/-z/。horses包括词汇形位/hɔrs/和曲折形位/-əz/。可以发现，同一个曲折形位名词复数会对应到不同的实际实现（actual realization）。由此，类比音系学相关概念，我们把这些形位的实际实现称为**形（morphs）**，把同一个形位对应的不同形称为**同位异形（allomorphs）**。
+之前对形位的讨论中是从书写和含义的角度出发，而淡化了其另一性质：它是一个音义结合体。例如，cats包括词汇形位/kæt/和曲折形位/-s/两部分。dogs包括词汇形位/dɔg/和曲折形位/-z/。horses包括词汇形位/hɔrs/和曲折形位/-əz/。可以发现，同一个曲折形位名词复数会对应到不同的实际实现 (actual realization）。由此，类比音系学相关概念，我们把这些形位的实际实现称为**形 (morphs)** ，把同一个形位对应的不同形称为**同位异形 (allomorphs)** 。
 
 > **NOTE**
 >
@@ -117,30 +117,30 @@
 | 形位           | 同位异形 | 示例       |
 | -------------- | -------- | ---------- |
 |                | /-s/     | cat**s**   |
-| 复数（plural） | /-z/     | dog**s**   |
+| 复数 (plural） | /-z/     | dog**s**   |
 |                | /-əz/    | hors**es** |
 
-此外，英语中还有一些特殊情况（special cases）。如sheep是单复数同形的，man的复数men属于不规则变形等等。对于单复数同形的情况，我们可以为复数添加一个空的同位异形/Ø/，那么sheep的复数就由/ʃip/和/Ø/构成。对于不规则变形的情况，我们可以添加表示元音变化的同位异形，如/æ/变为/ɛ/。不过，多数情况是这些不规则变形的单词已经被收录到了词典中作为词汇形位了。
+此外，英语中还有一些特殊情况 (special cases）。如sheep是单复数同形的，man的复数men属于不规则变形等等。对于单复数同形的情况，我们可以为复数添加一个空的同位异形/Ø/，那么sheep的复数就由/ʃip/和/Ø/构成。对于不规则变形的情况，我们可以添加表示元音变化的同位异形，如/æ/变为/ɛ/。不过，多数情况是这些不规则变形的单词已经被收录到了词典中作为词汇形位了。
 
 ## 6 词根、词干与词基
 
 ### 6.1 词根
 
-语言学教程第四版对词根（roots）的定义如下。
+语言学教程第四版对词根 (roots）的定义如下。
 
 > A root is the base form of a word that cannot be further analyzed without destroying its meaning. That is to say, it is that part of the word that remains when all the affixes are removed.
 
 由此可以总结出词根的三个要点：
 
 - 词根是单词中携带含义的最小部分，无法进一步分析和改变；
-- 词根是单词去掉所有词缀（派生与曲折）后留下的部分；
-- 每个单词都有一个词根形位（root morpheme），包括自由词根形位（free root morphemes）和黏着词根形位（bound root morphemes）。
+- 词根是单词去掉所有词缀 (派生与曲折）后留下的部分；
+- 每个单词都有一个词根形位 (root morpheme），包括自由词根形位 (free root morphemes）和黏着词根形位 (bound root morphemes）。
 
 例如classmates曲折词缀-s和派生词缀class-后得到词根class。由于可以单独成词，它属于自由词根形位。相对地，receive去掉派生词缀re-后得到词根-ceive。由于无法单独成词，它属于黏着词根形位。
 
 ### 6.2 词干
 
-语言学教程第四版对词干（stems）的定义如下。
+语言学教程第四版对词干 (stems）的定义如下。
 
 > A stem is any morpheme or combination of morphemes to which an inflectional affix can be added.
 
@@ -152,7 +152,7 @@
 
 ### 6.3 词基
 
-相较于词根和词干，词基是一个更通用（all-purpose）的概念，它指的是任何可以被加上词缀（派生与曲折）的形（forms）。例如workers的词基是worker，practical的词基是practice。
+相较于词根和词干，词基是一个更通用 (all-purpose）的概念，它指的是任何可以被加上词缀 (派生与曲折）的形 (forms）。例如workers的词基是worker，practical的词基是practice。
 
 ### 6.4 区别与联系
 
