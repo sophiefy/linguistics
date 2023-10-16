@@ -14,7 +14,7 @@
 | ---------------------- | ------------ | ------------------ | -------- |
 | syntax                 | 句法         | generative grammar | 生成语法 |
 | surface structure      | 表层结构     | deep structure     | 深层结构 |
-| structural ambiguity   | 结构歧义     | syntatic analysis  | 句法分析 |
+| structural ambiguity   | 结构歧义     | syntactic analysis  | 句法分析 |
 | phrase structure rules | 短语结构规则 | lexical rules      | 词法规则 |
 
 > **NOTE**
@@ -215,7 +215,7 @@ NP Aux VP -> Aux NP VP
 基于NLTK，我们可以设计下面的上下文无关语法。
 
 ```python
-grammar ="""
+grammar = """
     S -> NP Aux VP | Aux NP VP
     PP -> P NP
     NP -> Art N | Pro | PN
@@ -247,7 +247,7 @@ CP -> C S
 基于NLTK，我们可以设计出下面的上下文无关语法。
 
 ```python
-grammar ="""
+grammar = """
     S -> NP VP
     NP -> PN
     PN -> 'John' | 'Mary' | 'Cathy' | 'you'
