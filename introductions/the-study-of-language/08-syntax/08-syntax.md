@@ -150,7 +150,7 @@ import nltk
 这里的 (上下文无关) 语法实际上就对应着一组短语结构规则和词法规则。NLTK允许我们使用熟悉的格式来定义语法。下面的代码中，`|`表示"或"，与之前提到的花括号功能相同。
 
 ```python
-grammar ="""
+grammar = """
     S -> NP VP
     PP -> P NP
     NP -> Det N | Det N PP | 'I'
