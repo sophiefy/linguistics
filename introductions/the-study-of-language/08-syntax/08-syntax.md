@@ -238,7 +238,7 @@ grammar = """
 
 ### 7.5 课后练习：递归
 
-句法中的递归 (recursion) 是指重复地将某条规则运用于其输出。以英语中的补语标记 (complementizer, C) 和补语短语 (complement phrase) 为例，Mary helped you可以单独成句；而在Cathy knew that Mary helped you中，that为补语标记，that Mary helped you为补语短语。与之对应的规则如下。
+句法中的递归 (recursion) 是指重复地将某条规则运用于其输出。以英语中的标句词 (complementizer, C) 和补语短语 (complement phrase) 为例，Mary helped you可以单独成句；而在Cathy knew that Mary helped you中，that为补语标记，that Mary helped you为补语短语。与之对应的规则如下。
 
 ```bash
 CP -> C S
