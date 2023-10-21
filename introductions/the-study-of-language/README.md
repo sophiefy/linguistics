@@ -24,6 +24,7 @@
 
 [Chapter8: Syntax](08-syntax/08-syntax.md)
 
+[Chapter9: Semantics](09-semantics/09-semantics.md)
 
 ## 参考
 
