@@ -122,7 +122,7 @@
 
 互补反义词也称为互补对 (complentary pairs) 或二元对 (binary pairs) 。一对互补反义词之间没有任何"缓冲"，是完全对立的。例如daed和alive之间并不存在其它状态。
 
-层级反义词之间则存在过度。例如My car isn't old并不意味之My car is new。又如hot和cold之间还有warm和cool。
+层级反义词之间则存在过渡。例如My car isn't old并不意味之My car is new。又如hot和cold之间还有warm和cool。
 
 反向动词是描述相反动作的动词。例如dress的意思是"穿"。其反向动词undress并不是"不穿"，而是"穿"的反响动作"脱"。又如entry和exit、lengthen和shorten、pack和unpack等等。
 
