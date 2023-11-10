@@ -4,7 +4,7 @@
 
 ## 1 概述
 
-**语义学 (semantics)** 是对单词、短语和句子意义的研究。在语义分析 (semantic analysis) 中，我们通常倾向于关注单词常规的 (conventional) 意义，而不是某个说话人在某种场合下以为的意义。也就是说，我们关心的是单词在该语言的所有合格使用者之间共享 (shared) 的意义。
+**语义学 (semantics)** 是对单词、短语和句子意义的研究。在语义分析 (semantic analysis) 中，我们通常倾向于关注单词常规的 (conventional) 意义，而不是某个语者在某种场合下以为的意义。也就是说，我们关心的是单词在该语言的所有合格使用者之间共享 (shared) 的意义。
 
 以下是本章中出现的部分语言学术语。
 
@@ -122,7 +122,7 @@
 
 互补反义词也称为互补对 (complentary pairs) 或二元对 (binary pairs) 。一对互补反义词之间没有任何"缓冲"，是完全对立的。例如daed和alive之间并不存在其它状态。
 
-层级反义词之间则存在过渡。例如My car isn't old并不意味之My car is new。又如hot和cold之间还有warm和cool。
+层级反义词之间则存在过渡。例如My car isn't old并不意味着My car is new。又如hot和cold之间还有warm和cool。
 
 反向动词是描述相反动作的动词。例如dress的意思是"穿"。其反向动词undress并不是"不穿"，而是"穿"的反响动作"脱"。又如entry和exit、lengthen和shorten、pack和unpack等等。
 
