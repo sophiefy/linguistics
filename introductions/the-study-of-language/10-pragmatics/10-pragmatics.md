@@ -23,13 +23,13 @@
 
 例如在下面的图片中，单从这几个词来看可能会有许多种解读的方法。比如"we can park our heated attendants here"或"parking will be carried out by attendants who are heated"。但实际上我们会更倾向于理解为"we can park a car here, in a heated area"。那么我们是如何在牌子上没有写car这个单词的情况下理解其含义的呢？
 
-![invisible-meaning](assets/invisible-meaning.png.png)
+![invisible-meaning](assets/invisible-meaning.png)
 
 > **NOTE**
 >
 > 文心一言的解读。
 >
-> ![invisible-meaning-ernie](assets/invisible-meaning-ernie.jpg.jpg)
+> ![invisible-meaning-ernie](assets/invisible-meaning-ernie.png)
 
 ## 3 语境
 
@@ -45,7 +45,7 @@
 >
 > 文心一言的解读。
 >
-> ![context-ernie](assets/context-ernie.jpg.jpg)
+> ![context-ernie](assets/context-ernie.png)
 
 ### 3.1 指示语
 
