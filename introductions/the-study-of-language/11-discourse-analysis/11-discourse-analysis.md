@@ -29,7 +29,7 @@
 
 **话语 (discourse) **一词通常可以定义为超越句子的语言 (langauge beyond the sentence) 。因此对它的分析关注的是文本 (texts) 和对话 (conversations) 中的语言。在先前的章节中，我们关注的是各种形 (forms) 和结构 (structures) 的准确表征。然而，作为语言的使用者，我们不仅能够分辨形和结构的对错，还能对一些碎片化的信息做出复杂的话语解读。
 
-例如看到报纸头版上写着Trains colide, two die，我们可以知道前者是后者的起因；看到商店橱窗上写着No shoes, no service，我们能明白二者的关系 (If you are wearing no shoes, you will receive no service) 。我们甚至可以解读那些破坏了许多语言规则的文本。
+例如看到报纸头版上写着Trains collide, two die，我们可以知道前者是后者的起因；看到商店橱窗上写着No shoes, no service，我们能明白二者的关系 (If you are wearing no shoes, you will receive no service) 。我们甚至可以解读那些破坏了许多语言规则的文本。
 
 ![discourse](assets/discourse.png)
 
@@ -99,7 +99,7 @@
 >
 > Typically, only the person speaks at a time and there tends to be an avoidance of silence between speaking turns. (This is not true in all situations or societies.)
 >
-> 我比较好奇括号中的补充信息是对整句话有效还是后半部分，于是在[Lingustics Stack Exchange](https://linguistics.stackexchange.com/questions/47898/in-which-situations-or-societies-do-people-not-take-turns-to-speak-in-conversati)上提问并收获了许多评论。大家给出了很多people don't take turns in conversations的案例。
+> 我比较好奇括号中的补充信息是对整句话有效还是后半部分，于是在[Linguistics Stack Exchange](https://linguistics.stackexchange.com/questions/47898/in-which-situations-or-societies-do-people-not-take-turns-to-speak-in-conversati)上提问并收获了许多评论。大家给出了很多people don't take turns in conversations的案例。
 
 ### 4.1 话语轮转
 
