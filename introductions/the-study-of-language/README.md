@@ -26,6 +26,10 @@
 
 [Chapter9: Semantics](09-semantics/09-semantics.md)
 
+[Chapter10: Pragmatics](10-pragmatics/10-pragmatics.md)
+
+[Chapter11: Discourse Analysis](11-discourse-analysis/11-discourse-analysis.md)
+
 ## 参考
 
 [Yule, G. (2020). *The Study of Language* (7th ed.). Cambridge: Cambridge University Press. doi:10.1017/9781108582889](https://www.cambridge.org/highereducation/books/study-of-language/433B949839A5A6F915EC185657564B16#overview)
