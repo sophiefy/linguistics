@@ -20,7 +20,7 @@
 
 [Chapter6: Morphology](06-morphology/06-morphology.md)
 
-[Chapter7: Grammar](07-grammar/07-Grammar.md)
+[Chapter7: Grammar](07-grammar/07-grammar.md)
 
 [Chapter8: Syntax](08-syntax/08-syntax.md)
 
