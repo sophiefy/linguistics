@@ -192,5 +192,3 @@ Slips of the ear或许能为研究大脑如何理解 (make sense of) 听觉信�
 ## 参考
 
 [Yule, G. (2020). *The Study of Language* (7th ed.). Cambridge: Cambridge University Press. doi:10.1017/9781108582889](https://www.cambridge.org/highereducation/books/study-of-language/433B949839A5A6F915EC185657564B16#overview)
-
-[8. Analyzing Sentence Structure](https://www.nltk.org/book/ch08.html)
