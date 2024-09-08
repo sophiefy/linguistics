@@ -1,4 +1,4 @@
-# Chapter5: Word Formation
+# Word Formation
 
 ![cover](assets/cover.png)
 

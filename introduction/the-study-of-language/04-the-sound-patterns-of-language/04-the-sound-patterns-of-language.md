@@ -1,4 +1,4 @@
-# Chapter4: The Sound Patterns of Language
+# The Sound Patterns of Language
 
 ![conver](assets/cover.png)
 

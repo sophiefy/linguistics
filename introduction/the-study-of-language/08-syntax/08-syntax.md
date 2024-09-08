@@ -1,4 +1,4 @@
-# Chapter8: Syntax
+# Syntax
 
 ![cover](assets/cover.png)
 

@@ -1,4 +1,4 @@
-# Chapter7: Grammar
+# Grammar
 
 ![cover](assets/cover.png)
 
