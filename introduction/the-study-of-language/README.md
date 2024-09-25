@@ -30,7 +30,11 @@
 
 [Chapter11: Discourse Analysis](11-discourse-analysis/11-discourse-analysis.md)
 
-[Chapter12: Language and the Brain](12-language-and-the-brain\12-language-and-the-brain.md)
+[Chapter12: Language and the Brain](12-language-and-the-brain/12-language-and-the-brain.md)
+
+[Chapter13: First Language Acquisition](13-first-language-aquisition/13-first-language-acquisition.md)
+
+[Chapter14: Second Language Acquisition](14-second-language-acquisition/14-second-language-acquisition.md)
 
 ## 参考
 
