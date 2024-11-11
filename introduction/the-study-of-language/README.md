@@ -36,6 +36,10 @@
 
 [Chapter14: Second Language Acquisition](14-second-language-acquisition/14-second-language-acquisition.md)
 
+[Chapter15: Gestures and Sign Langauges](15-gestures-and-sign-langauges/15-gestures-and-sign-langauges.md)
+
+[Chapter16: Written Langauge](16-written-langauge/16-written-langauge.md)
+
 ## 参考
 
 [Yule, G. (2020). *The Study of Language* (7th ed.). Cambridge: Cambridge University Press. doi:10.1017/9781108582889](https://www.cambridge.org/highereducation/books/study-of-language/433B949839A5A6F915EC185657564B16#overview)
