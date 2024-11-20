@@ -8,37 +8,45 @@
 
 ## 1 目录
 
-[Chapter1: The Origins of Language](01-the-origins-of-language/01-the-rrigins-of-language.md)
+[Chapter1: The Origins of Language](01-the-origins-of-language/content.md)
 
-[Chapter2: Animals and Human Language](02-animals-and-human-language/02-animals-and-human-language.md)
+[Chapter2: Animals and Human Language](02-animals-and-human-language/content.md)
 
-[Chapter3: The Sounds of Language](03-the-sounds-of-language/03-the-sounds-of-language.md)
+[Chapter3: The Sounds of Language](03-the-sounds-of-language/content.md)
 
-[Chapter4: The Sound Patterns of Language](04-the-sound-patterns-of-language/04-the-sound-patterns-of-language.md)
+[Chapter4: The Sound Patterns of Language](04-the-sound-patterns-of-language/content.md)
 
-[Chapter5: Word Formation](05-word-formation/05-word-formation.md)
+[Chapter5: Word Formation](05-word-formation/content.md)
 
-[Chapter6: Morphology](06-morphology/06-morphology.md)
+[Chapter6: Morphology](06-morphology/content.md)
 
-[Chapter7: Grammar](07-grammar/07-grammar.md)
+[Chapter7: Grammar](07-grammar/content.md)
 
-[Chapter8: Syntax](08-syntax/08-syntax.md)
+[Chapter8: Syntax](08-syntax/content.md)
 
-[Chapter9: Semantics](09-semantics/09-semantics.md)
+[Chapter9: Semantics](09-semantics/content.md)
 
-[Chapter10: Pragmatics](10-pragmatics/10-pragmatics.md)
+[Chapter10: Pragmatics](10-pragmatics/content.md)
 
-[Chapter11: Discourse Analysis](11-discourse-analysis/11-discourse-analysis.md)
+[Chapter11: Discourse Analysis](11-discourse-analysis/content.md)
 
-[Chapter12: Language and the Brain](12-language-and-the-brain/12-language-and-the-brain.md)
+[Chapter12: Language and the Brain](12-language-and-the-brain/content.md)
 
-[Chapter13: First Language Acquisition](13-first-language-aquisition/13-first-language-acquisition.md)
+[Chapter13: First Language Acquisition](13-first-language-aquisition/content.md)
 
 [Chapter14: Second Language Acquisition](14-second-language-acquisition/14-second-language-acquisition.md)
 
-[Chapter15: Gestures and Sign Langauges](15-gestures-and-sign-langauges/15-gestures-and-sign-langauges.md)
+[Chapter15: Gestures and Sign Langauges](15-gestures-and-sign-langauges/content.md)
 
-[Chapter16: Written Langauge](16-written-langauge/16-written-langauge.md)
+[Chapter16: Written Langauge](16-written-langauge/content.md)
+
+[Chapter17: Langauge History and Change](17-language-history-and-change/content.md)
+
+[Chapter18: Regional Variation in Language](18-regional-variation-in-langauge/content.md)
+
+[Chapter19: Social Variation in Langauge](19-social-variation-in-language/content.md)
+
+[Chapter20: Language and Culture](20-language-and-culture/content.md)
 
 ## 参考
 
