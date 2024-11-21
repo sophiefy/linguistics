@@ -43,15 +43,15 @@
 
 
 
-![consonant_wave](D:\Desktop\英语\语言学\The-Study-of-Language\03-The-Sounds-of-Language\assets\consonant_wave.png)
+![consonant_wave](assets/consonant_wave.png)
 
-![pitch](D:\Desktop\英语\语言学\The-Study-of-Language\03-The-Sounds-of-Language\assets\pitch.png)
+![pitch](assets/pitch.png)
 
 ### 3.2 发音部位
 
 气流从喉出来后便进入了声道 (vocal tract) ，然后经过咽 (pharynx) 进入口道 (oral tract) 或鼻道 (nasal tract) 。多数的辅音是通过收缩 (constrict) 舌头以及口腔中的某些部位来改变口道的形状。下图展示了人类声道的构造。
 
-![vocal_tract](D:\Desktop\英语\语言学\The-Study-of-Language\03-The-Sounds-of-Language\assets\vocal_tract.png)
+![vocal_tract](assets/vocal_tract.png)
 
 上图中出现的术语翻译如下表。
 
@@ -122,7 +122,7 @@
 
 不同元音的产生是由于舌头位于口腔中的不同位置。我们可以将舌头的位置分成前后上下几个区域。例如在读单词$heat$时，嘴巴闭合，舌头抬起并位于口腔的前部；相反，在读单词$hot$时，嘴巴张开，舌头压低并位于口腔的后部。下表展示了各个元音发音时的嘴型和舌位。
 
-![vowels](D:\Desktop\英语\语言学\The-Study-of-Language\03-The-Sounds-of-Language\assets\vowels.png)
+![vowels](assets/vowels.png)
 
 此外，在许多语言中还存在双元音 (diphthongs) ，即两个元音的组合。在发音时，实际上就是嘴巴开合与舌头位置在发生变化。例如发[aɪ]时，嘴巴由打开"滑"向闭合，舌头由中部"滑"向前部。
 

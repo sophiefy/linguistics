@@ -66,7 +66,7 @@
 - **嘴舌 (mouths and tongue)** ：人类的嘴比较小，能够快速地开合。而舌头则更为短和厚，且有更多肌肉来帮助在**口腔 (oral cavity)** 中发出不同的音。
 - **喉咽 (larynx and pharynx)** ：人类直立行使得喉的位置下沉并形成咽 (pharynx) ，而其它灵长类动物普遍没有咽。咽可以视为发声时的共振器 (resonator) ，帮助人类发出更多不同的音。不过同样是因为有了咽，人类在进食时反而会更加容易被呛到。因此可以推测，在进化的过程中，咽在发声上的优点会比被呛的缺点更重要。
 
-![vocal_tract](D:\Desktop\英语\语言学\The-Study-of-Language\01-The-Origins-of-Language\assets\vocal_tract.png)
+![vocal_tract](assets/vocal_tract.png)
 
 
 

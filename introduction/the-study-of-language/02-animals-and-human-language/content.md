@@ -56,7 +56,7 @@
 
 **任意性 (arbitrariness)** 指的是人类语言的语言形式 (linguistic form) 与其含义并没有天然的联系。例如我们并不能从"dog"这个单词的形状来判断其意思是"狗"。当然，我们完全可以调整单词的形状来适应 (fit) 其含义，但正是因为我们想方设法建立语言形式与含义的某种联系，更加说明了大多数情况下二者的关系是任意的。
 
-![words-fit-concepts](D:\Desktop\英语\语言学\The-Study-of-Language\02-Animals-and-Human-Language\assets\words-fit-concepts.png)
+![words-fit-concepts](assets/words-fit-concepts.png)
 
 > **【思考】**
 > 如何解释以汉字为代表的象形文字？

@@ -1,5 +1,7 @@
 # Language History and Change
 
+![cover](assets/cover.png)
+
 ## 1 概述
 
 > Fæder ure þu þe eart on heofonum,
